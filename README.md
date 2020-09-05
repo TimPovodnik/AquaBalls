@@ -17,7 +17,7 @@ I'm a High School student currently studying at ERŠ Velenje.
 
 <!-- icons with padding -->
 
-[1.1]: <i class="fa fa-instagram" aria-hidden="true"></i> (twitter icon with padding)
+[1.1]: https://www.flaticon.com/free-icon/instagram_1384031?term=instagram&page=1&position=2 (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 

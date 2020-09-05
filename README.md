@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Tim 👋 👋
 
-<!--
-**AquaBalls/AquaBalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer currently studying at The School of Electric and Computer Science in Velenje.
 
-Here are some ideas to get you started:
+**Personal info**
+- Born: 9.12.2002 - Slovenia
+- Email: [tim.povodnikk@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Favourite languages
+JavaScript
+
+TypeScript
+
+Python
+
+C#
+
+Go
+
+C++
+
+
+

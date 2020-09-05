@@ -8,8 +8,6 @@ I'm a High School student currently studying at ERŠ Velenje.
 - Born: 9.12.2002 - Slovenia
 - Email: [tim.povodnik@gmail.com]
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]

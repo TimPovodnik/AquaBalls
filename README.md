@@ -26,8 +26,8 @@ I'm a High School student currently studying at ERŠ Velenje.
 
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[6]: http://www.github.com/carlsednaoui
+[1]: https://www.facebook.com/timpovodnik69/
+[2]: https://www.facebook.com/timpovodnik69/
+[6]: http://www.github.com/AquaBalls
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->

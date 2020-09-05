@@ -4,6 +4,7 @@
 <hr></hr>
 I'm a High School student currently studying at ERŠ Velenje.
 <br>
+
 **Personal info**
 - Born: 9.12.2002 - Slovenia
 - Email: [tim.povodnik@gmail.com]

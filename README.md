@@ -1,23 +1,9 @@
 ### Hi there, I'm Tim 👋 👋
 
-I'm a software developer currently studying at The School of Electric and Computer Science in Velenje.
+[![HitCount](http://hits.dwyl.com/AquaBalls/AquaBalls.svg)](http://hits.dwyl.com/AquaBalls/AquaBalls)
+
+I'm a High School Student currently studying at ERŠ Velenje.
 
 **Personal info**
 - Born: 9.12.2002 - Slovenia
 - Email: [tim.povodnikk@gmail.com]
-
-Favourite languages
-JavaScript
-
-TypeScript
-
-Python
-
-C#
-
-Go
-
-C++
-
-
-

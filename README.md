@@ -2,7 +2,7 @@
 
 [![Profile views](http://hits.dwyl.com/AquaBalls/AquaBalls.svg)](http://hits.dwyl.com/AquaBalls/AquaBalls)
 <hr></hr>
-I'm a High School student currently studying at ERŠ Velenje.
+I'm a College student currently studying at FERI - University in Maribor.
 
 **Personal info**
 - Born: 9.12.2002 - Slovenia

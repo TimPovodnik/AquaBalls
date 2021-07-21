@@ -4,6 +4,10 @@ I am Tim Povodnik, currently studying computer science on [FERI](https://feri.um
 
 [![Linkedin Badge](https://img.shields.io/badge/-tim-povodnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tim-povodnik/)](https://www.linkedin.com/in/tim-povodnik-56370919a/)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tim-povodnik-56370919a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://si.linkedin.com/in/tim-povodnik-56370919a?trk=profile-badge">Tim Povodnik</a></div>
+              
+
 [![Gmail Badge](https://img.shields.io/badge/-tim.povodnik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tim.povodnik@gmail.com)](mailto:tim.povodnik@gmail.com)
 
 ## ⚡ Technologies

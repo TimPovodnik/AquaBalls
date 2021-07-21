@@ -2,9 +2,9 @@
 
 I am Tim Povodnik, currently studying computer science on [FERI](https://feri.um.si/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/tim-povodnik-56370919a/)
+[![Linkedin Badge](https://img.shields.io/badge/-tim-povodnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tim-povodnik/)](https://www.linkedin.com/in/tim-povodnik-56370919a/)
 
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:tim.povodnik@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tim.povodnik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tim.povodnik@gmail.com)](mailto:tim.povodnik@gmail.com)
 
 ## ⚡ Technologies
 

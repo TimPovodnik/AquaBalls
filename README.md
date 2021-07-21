@@ -2,11 +2,18 @@
 
 I am Tim Povodnik, currently studying computer science on [FERI](https://feri.um.si/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
+### Connect with me:
+
 [![Linkedin Badge](https://img.shields.io/badge/-timpovodnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/tim-povodnik-56370919a/)
 
 [![Gmail Badge](https://img.shields.io/badge/-tim.povodnik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tim.povodnik@gmail.com)](mailto:tim.povodnik@gmail.com)
 
-## ⚡ Technologies
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
+
+
+### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)

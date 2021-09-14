@@ -8,11 +8,6 @@ I am Tim Povodnik, currently studying computer science on [FERI](https://feri.um
 
 [![Gmail Badge](https://img.shields.io/badge/-tim.povodnik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tim.povodnik@gmail.com)](mailto:tim.povodnik@gmail.com)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
-
-
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

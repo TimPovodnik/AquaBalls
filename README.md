@@ -28,6 +28,3 @@ I am Tim Povodnik, currently studying computer science on [FERI](https://feri.um
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
